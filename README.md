@@ -1,11 +1,13 @@
 # Code Refactor Starter Code
 
 <!-- customer statement -->
+CUSTOMER STATEMENT:
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 <!-- accessibility requirements -->
+ACCESSIBILITY REQUIREMENTS:
 * GIVEN a webpage meets accessibility standards
 * WHEN I view the source code
 * THEN I find semantic HTML elements
@@ -19,6 +21,7 @@ SO THAT our own site is optimized for search engines
 * THEN I find a concise, descriptive title
 
 <!-- Changes I made -->
+CHANGES I MADE:
 * Changed the flow of the CSS and HTML documents to be more semantic
 * Added alt attributes to images
 * Consolidated some repetitive attributes
